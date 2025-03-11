@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealHorror.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealHorrorEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorror.init.gen.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorCharacter.gen.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorGameMode.gen.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorPickUpComponent.gen.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorProjectile.gen.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorWeaponComponent.gen.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorror.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorCharacter.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorGameMode.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorPickUpComponent.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorProjectile.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealHorrorWeaponComponent.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\PerModuleInline.gen.cpp.obj"
+"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\Default.rc2.res"
+/OUT:"C:\Users\sferr\Documents\Unreal Projects\UnrealHorror\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealHorror\UnrealEditor-UnrealHorror.lib"

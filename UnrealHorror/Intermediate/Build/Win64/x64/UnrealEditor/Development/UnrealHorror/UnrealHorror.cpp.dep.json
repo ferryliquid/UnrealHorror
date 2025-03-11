@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sferr\\documents\\unreal projects\\unrealhorror\\source\\unrealhorror\\unrealhorror.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sferr\\documents\\unreal projects\\unrealhorror\\intermediate\\build\\win64\\x64\\unrealhorroreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\sferr\\documents\\unreal projects\\unrealhorror\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealhorror\\definitions.unrealhorror.h",
+            "c:\\users\\sferr\\documents\\unreal projects\\unrealhorror\\source\\unrealhorror\\unrealhorror.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
